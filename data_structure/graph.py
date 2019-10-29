@@ -15,12 +15,8 @@ def bfs(graph):
             if graph[v][i] == 1 and not visited[i]:
                 visited[i] = 1
                 queue.append(i)
-        
-# DFS (Depth First Search): Stack
 
-def connect(graph, a, b):
-    graph[a][b] = 1
-    graph[b][a] = 1
+# DFS (Depth First Search): Stack
 
 
 def dfs(graph):
@@ -38,6 +34,11 @@ def dfs(graph):
     for i in range(1, V):
         if not visited[i]:
             search_part(i)
+
+
+def connect(graph, a, b):
+    graph[a][b] = 1
+    graph[b][a] = 1
 
 
 if __name__ == '__main__':
