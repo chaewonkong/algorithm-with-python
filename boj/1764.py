@@ -31,7 +31,6 @@ never_seen_before.sort()
 
 i = 0
 j = 0
-ret = []
 while i < N and j < M:
     if not_heard_of[i] == never_seen_before[j]:
         count += 1
