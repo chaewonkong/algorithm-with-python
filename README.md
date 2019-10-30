@@ -100,6 +100,8 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 59. [2908.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2908.py): 외판원 순회
 60. [11726.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/11726.py): 2\*n 타일링
 61. [1260.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1260.py): DFS와 BFS
+62. [16391.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/16391.py): Zebras and Ocelots
+63. [1764.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1764.py): 듣보잡
 
 <br><br>
 
