@@ -103,6 +103,7 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 62. [16391.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/16391.py): Zebras and Ocelots
 63. [1764.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1764.py): 듣보잡
 64. [1107.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1107.py): 리모컨
+65. [10026.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/10026.py): 적록색약
 
 <br><br>
 
