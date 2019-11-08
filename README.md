@@ -253,4 +253,6 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 ## programmers
 1. [uncompleted.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/uncompleted.py):완주하지 못한 선수
 2. [printer.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/printer.py): 프린터
+3. [spicy.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/spicy.py): 더 맵게
+4. [k_th_number.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/k_th_number.py): K 번째 수
 
