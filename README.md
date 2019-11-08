@@ -246,6 +246,11 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 1. [is_palindrome.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/recursion/is_palindrome.py)
 2. [letter_permutation.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/letter_permutation.py)
 
-### divide_and_conquer
+## divide_and_conquer
 
 2. [fast_sum.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/divide_and_conquer/fast_sum.py): fast sum using divide and conquer.
+
+## programmers
+1. [uncompleted.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/uncompleted.py):완주하지 못한 선수
+2. [printer.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/printer.py): 프린터
+
