@@ -24,19 +24,6 @@ numbers	target	return
 문제에 나온 예와 같습니다.
 """
 
-# answer = 0
-# def dfs(idx, numbers, target, value):
-#     global answer
-#     N = len(numbers)
-#     if(idx== N and target == value):
-#         answer += 1
-#         return
-#     elif(idx == N):
-#         return
-
-#     dfs(idx+1,numbers,target,value+numbers[idx])
-#     dfs(idx+1,numbers,target,value-numbers[idx])
-
 
 def solution(numbers, target):
     answer = 0
