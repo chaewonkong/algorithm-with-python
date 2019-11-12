@@ -255,4 +255,6 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 2. [printer.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/printer.py): 프린터
 3. [spicy.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/spicy.py): 더 맵게
 4. [k_th_number.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/k_th_number.py): K 번째 수
+5. [find_prime.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/find_prime.py): 소수 찾기
+6. [target_number.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/target_number.py): 타겟 넘버
 
