@@ -258,4 +258,5 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 5. [find_prime.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/find_prime.py): 소수 찾기
 6. [target_number.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/target_number.py): 타겟 넘버
 7. [budget.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/budget.py): 예산
+8. [gym_suit.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/gym_suit.py): 체육복
 
