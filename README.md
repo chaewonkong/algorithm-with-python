@@ -251,12 +251,12 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 2. [fast_sum.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/divide_and_conquer/fast_sum.py): fast sum using divide and conquer.
 
 ## programmers
-1. [uncompleted.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/uncompleted.py):완주하지 못한 선수
-2. [printer.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/printer.py): 프린터
-3. [spicy.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/spicy.py): 더 맵게
-4. [k_th_number.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/k_th_number.py): K 번째 수
-5. [find_prime.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/find_prime.py): 소수 찾기
-6. [target_number.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/target_number.py): 타겟 넘버
-7. [budget.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/budget.py): 예산
-8. [gym_suit.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/gym_suit.py): 체육복
+1. [uncompleted.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/uncompleted.py):완주하지 못한 선수 (해시)
+2. [printer.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/printer.py): 프린터(스택/큐)
+3. [spicy.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/spicy.py): 더 맵게(힙)
+4. [k_th_number.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/k_th_number.py): K 번째 수(정렬)
+5. [find_prime.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/find_prime.py): 소수 찾기(완전탐색)
+6. [target_number.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/target_number.py): 타겟 넘버(BFS/DFS)
+7. [budget.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/budget.py): 예산(이진탐색)
+8. [gym_suit.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/gym_suit.py): 체육복(그리디 알고리즘)
 
