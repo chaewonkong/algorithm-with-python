@@ -259,4 +259,5 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 6. [target_number.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/target_number.py): 타겟 넘버(BFS/DFS)
 7. [budget.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/budget.py): 예산(이진탐색)
 8. [gym_suit.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/gym_suit.py): 체육복(그리디 알고리즘)
+9. [max_distant_node.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/programmers/max_distant_node.py): 가장 먼 노드(그래프)
 
