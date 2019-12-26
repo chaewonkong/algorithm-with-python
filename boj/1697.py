@@ -8,30 +8,7 @@
 수빈이와 동생의 위치가 주어졌을 때, 수빈이가 동생을 찾을 수 있는 가장 빠른 시간이 몇 초 후인지 구하는 프로그램을 작성하시오.
 """
 
-import sys
 from collections import deque
-
-input = sys.stdin.readline
-
-# def find(n, k, cnt):
-#     if n > k:
-#         return cnt + (n-k)
-#     elif n == k:
-#         return cnt
-#     else:
-#         if k % 2 == 0:
-#             if abs(k//2 - n) <= abs(k-n):
-#                 k //= 2
-#                 cnt += 1
-#                 return find(n, k, cnt)
-#             else:
-#                 k -= n
-#                 cnt += n
-#                 return find(n, k, cnt)
-#         else:
-#             k -= 1
-#             cnt += 1
-#             return find(n, k, cnt)
 
 MAX = 100001
 
