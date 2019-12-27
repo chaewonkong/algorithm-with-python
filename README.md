@@ -107,6 +107,7 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 66. [11053.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/11053.py): 가장 긴 증가하는 부분 수열
 67. [10844.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/10844.py): 쉬운 계단 수
 68. [1697.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1697.py): 숨바꼭질
+69. [10816.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/10816.py): 숫자카드 2
 
 <br><br>
 
