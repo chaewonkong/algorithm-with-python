@@ -3,7 +3,6 @@
 
 URL: https://www.acmicpc.net/problem/2110
 """
-from unittest import TestCase
 
 
 def solution(c, houses):
@@ -37,6 +36,14 @@ def solution(c, houses):
     return ans
 
 
+if __name__ == "__main__":
+    n, c = map(int, input().split())
+    houses = []
+    for _ in range(n):
+        houses.append(int(input()))
+    print(solution(c, houses))
+
+
 # Test Cases
 
 
@@ -44,11 +51,3 @@ def solution(c, houses):
 # print(solution(4, [1, 2, 4, 5, 8, 11, 13])) # 3
 # print(solution(5, [1, 2, 5, 4, 3])) # 1
 # print(solution(2, [1, 2, 5, 4, 3])) # 4
-
-
-if __name__ == "__main__":
-    n, c = map(int, input().split())
-    houses = []
-    for _ in range(n):
-        houses.append(int(input()))
-    print(solution(c, houses))
