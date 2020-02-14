@@ -111,6 +111,7 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 70. [2110.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2110.py): 공유기 설치
 71. [1920.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1920.py): 수 찾기
 72. [2630.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2630.py): 색종이 만들기
+73. [11279.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/11279.py): 최대 힙
 
 <br><br>
 
