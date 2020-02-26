@@ -112,6 +112,7 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 71. [1920.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1920.py): 수 찾기
 72. [2630.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2630.py): 색종이 만들기
 73. [11279.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/11279.py): 최대 힙
+74. [1300.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1300.py): K번째 수
 
 <br><br>
 
